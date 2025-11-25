@@ -1,0 +1,10 @@
+D:\LABS\лабы максим\Lab_12_Lepilkin_Maksim_ISP_232-master\Lab_12_Lepilkin_Maksim_ISP_232-master\Clicker\bin\Debug\Clicker.exe.config
+D:\LABS\лабы максим\Lab_12_Lepilkin_Maksim_ISP_232-master\Lab_12_Lepilkin_Maksim_ISP_232-master\Clicker\bin\Debug\Clicker.exe
+D:\LABS\лабы максим\Lab_12_Lepilkin_Maksim_ISP_232-master\Lab_12_Lepilkin_Maksim_ISP_232-master\Clicker\bin\Debug\Clicker.pdb
+D:\LABS\лабы максим\Lab_12_Lepilkin_Maksim_ISP_232-master\Lab_12_Lepilkin_Maksim_ISP_232-master\Clicker\obj\Debug\Clicker.csproj.AssemblyReference.cache
+D:\LABS\лабы максим\Lab_12_Lepilkin_Maksim_ISP_232-master\Lab_12_Lepilkin_Maksim_ISP_232-master\Clicker\obj\Debug\Clicker.Form1.resources
+D:\LABS\лабы максим\Lab_12_Lepilkin_Maksim_ISP_232-master\Lab_12_Lepilkin_Maksim_ISP_232-master\Clicker\obj\Debug\Clicker.Properties.Resources.resources
+D:\LABS\лабы максим\Lab_12_Lepilkin_Maksim_ISP_232-master\Lab_12_Lepilkin_Maksim_ISP_232-master\Clicker\obj\Debug\Clicker.csproj.GenerateResource.cache
+D:\LABS\лабы максим\Lab_12_Lepilkin_Maksim_ISP_232-master\Lab_12_Lepilkin_Maksim_ISP_232-master\Clicker\obj\Debug\Clicker.csproj.CoreCompileInputs.cache
+D:\LABS\лабы максим\Lab_12_Lepilkin_Maksim_ISP_232-master\Lab_12_Lepilkin_Maksim_ISP_232-master\Clicker\obj\Debug\Clicker.exe
+D:\LABS\лабы максим\Lab_12_Lepilkin_Maksim_ISP_232-master\Lab_12_Lepilkin_Maksim_ISP_232-master\Clicker\obj\Debug\Clicker.pdb
