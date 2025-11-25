@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_15_C", "Lab_15_C\Lab_15_C.csproj", "{4AD53D11-39BD-495B-A10A-ECCF19D32F57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameWPF", "GameWPF\GameWPF.csproj", "{D0CBB684-5051-4F78-A858-DADAD0A9ADE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timer", "Timer\Timer.csproj", "{9049392B-CE00-4DE2-97CC-04EDED1F3AA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AD53D11-39BD-495B-A10A-ECCF19D32F57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AD53D11-39BD-495B-A10A-ECCF19D32F57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AD53D11-39BD-495B-A10A-ECCF19D32F57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AD53D11-39BD-495B-A10A-ECCF19D32F57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0CBB684-5051-4F78-A858-DADAD0A9ADE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0CBB684-5051-4F78-A858-DADAD0A9ADE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0CBB684-5051-4F78-A858-DADAD0A9ADE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0CBB684-5051-4F78-A858-DADAD0A9ADE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9049392B-CE00-4DE2-97CC-04EDED1F3AA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9049392B-CE00-4DE2-97CC-04EDED1F3AA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9049392B-CE00-4DE2-97CC-04EDED1F3AA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9049392B-CE00-4DE2-97CC-04EDED1F3AA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FDDB192-CAC5-44C6-9A39-7297D078BA47}
+	EndGlobalSection
+EndGlobal
